@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+        	"url": "stratum+tcp://eu.cloudiko.io:9999",
 		"timeout": 150
 	},
 	{
@@ -16,7 +16,8 @@
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
+	"user": "RGgWNg24jGE5Dkd1fr5dqJ8NePJZDXmrP3.
+	suave's samsung",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
